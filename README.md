@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h2> 🚀 &nbsp; Here are some technologies I have learned</h2>
 <p align="left">
-<img src="https://www.flaticon.com/free-icon/html-5_732212" alt="vscode" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
